@@ -1,6 +1,6 @@
 ## React Kanban Board
 
-[Demo](https://baidu.com)
+[Online Demo](https://chenxiicheng.github.io/React-Kanban-Board/)
 
 ## Preview
 
